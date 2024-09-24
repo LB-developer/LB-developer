@@ -21,7 +21,7 @@ Hi there! I'm Logan Bennett 👋
 <br/>
 
 ### Learning
-[![My Skills](https://skillicons.dev/icons?i=go,aws,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,aws,cs,dotnet)](https://skillicons.dev)
 
 ### Socials
 
