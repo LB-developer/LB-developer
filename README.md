@@ -1,41 +1,31 @@
-Hi there! I'm Logan Bennett 👋
-========================================================================================================================================
+# Hi there! I'm Logan 👋
 
-🌍  I am a Full Stack Web Developer based in Auckland, New Zealand.
-<br/>
+🌍 **Full Stack Software Developer** based in Auckland, New Zealand.  
+🔧 I’m passionate about **problem-solving** and always working to deepen my understanding of software development.
 
-I’m passionate about **problem solving** 🔧 and constantly working to deepen my understanding of computer science concepts. Currently, I’m studying for the **AWS Certified Developer - Associate** ☁️ to expand my knowledge of cloud technologies and architecture.
+### What I’m focused on right now:
+- **Go (Golang)** 🚀  
+  Learning to build performant backend services and improving concurrency knowledge.
 
----
+- **Cloud Technologies (AWS)** ☁️  
+  Studying for the **AWS Certified Developer - Associate** to broaden my expertise in cloud infrastructure.
 
-#### Here's what I'm focused on:
-
-- **AWS Exploration** ☁️  
-  Learning cloud infrastructure and services to build scalable applications.
-  
 - **C# and .NET Core** 💻  
-  Developing robust applications while honing my backend development skills.
-
-- **Problem Solving** 🔧  
-  Constantly working on improving my problem-solving approach through deeper knowledge of CS concepts.
+  Developing robust backend applications to diversify my tech stack.
 
 ---
 
-Feel free to explore my projects, and don’t hesitate to reach out if you’d like to collaborate or chat about anything tech-related!
-
----
-
-### Skills
-
+### What I use
 [![My Skills](https://skillicons.dev/icons?i=ts,react,html,css,tailwind)](https://skillicons.dev)<br/>
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev) 
-[![My Skills](https://skillicons.dev/icons?i=vitest)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev) 
-[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-<br/>
+[![My Skills](https://skillicons.dev/icons?i=vitest,sqlite,git,nodejs,express)](https://skillicons.dev)  
 
-### Learning
+### What I'm Learning
 [![My Skills](https://skillicons.dev/icons?i=go,aws,cs,dotnet)](https://skillicons.dev)
+
+---
+
+Feel free to explore my projects, and let’s connect if you want to discuss tech or collaborate!
+
 
 ### Socials
 
