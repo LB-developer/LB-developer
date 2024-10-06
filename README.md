@@ -10,9 +10,6 @@
 - **Cloud Technologies (AWS)** ☁️  
   Studying for the **AWS Certified Developer - Associate** to broaden my expertise in cloud infrastructure.
 
-- **C# and .NET Core** 💻  
-  Developing robust backend applications to diversify my tech stack.
-
 ---
 
 ### What I use
