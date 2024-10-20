@@ -21,8 +21,6 @@
 
 ---
 
-Feel free to explore my projects, and let’s connect if you want to discuss tech or collaborate!
-
 
 ### Socials
 
