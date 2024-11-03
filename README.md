@@ -8,7 +8,7 @@
   Learning to build performant backend services and improving concurrency knowledge.
 
 - **Cloud Technologies (AWS)** ☁️  
-  Studying for the **AWS Certified Developer - Associate** to broaden my expertise in cloud infrastructure.
+  Studying for the **AWS Certified Developer - Associate** to broaden my understanding of cloud infrastructure.
 
 ---
 
