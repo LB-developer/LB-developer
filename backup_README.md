@@ -1,7 +1,6 @@
 # Hi there! I'm Logan 👋
 
 🌍 **Full Stack Software Developer** based in Auckland, New Zealand.  
-🔧 I’m passionate about **problem-solving** and always working to deepen my understanding of software development.
 
 ### What I’m focused on right now:
 - **Go (Golang)** 🚀  
