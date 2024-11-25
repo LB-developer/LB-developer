@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vitest,sqlite,git,nodejs,express)](https://skillicons.dev)  
 
 ### What I'm Learning
-[![My Skills](https://skillicons.dev/icons?i=go,aws,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,cs,dotnet,aws,bootstrap)](https://skillicons.dev)
 
 ---
 
