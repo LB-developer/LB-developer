@@ -1,6 +1,5 @@
-### 🔍 Open to work
 I'm a full stack developer with a strong interest in backend systems, cloud architecture, and solving real-world problems through code.  
-Currently focused on Go, .NET Core, and expanding my cloud knowledge.
+Currently focused on Go, ReactTS, .NET Core, and expanding my cloud knowledge.
 
 ---
 
